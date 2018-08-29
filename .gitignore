@@ -6,3 +6,4 @@ tests
 coverage
 
 npm-debug.log
+yarn.lock
